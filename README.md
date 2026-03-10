@@ -30,6 +30,7 @@ Genre	Book category
 Published_year	Year the book was published
 Price	Price of the book
 Stock	Number of books available
+
 2️⃣ Customers
 
 Stores information about customers.
