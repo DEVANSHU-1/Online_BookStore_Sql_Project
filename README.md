@@ -41,6 +41,7 @@ Email	Customer email
 Phone	Contact number
 City	Customer city
 Country	Customer country
+
 3️⃣ Orders
 
 Stores order transactions made by customers.
